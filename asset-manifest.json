@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vinit-Tiwari/ipaddresstracker/static/css/main.1ade9d96.css",
+    "main.js": "/Vinit-Tiwari/ipaddresstracker/static/js/main.9b085c87.js",
+    "static/media/pattern-bg.png": "/Vinit-Tiwari/ipaddresstracker/static/media/pattern-bg.a60a3c85aa8b88aac4b7.png",
+    "index.html": "/Vinit-Tiwari/ipaddresstracker/index.html",
+    "static/media/icon-location.svg": "/Vinit-Tiwari/ipaddresstracker/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
+    "main.1ade9d96.css.map": "/Vinit-Tiwari/ipaddresstracker/static/css/main.1ade9d96.css.map",
+    "main.9b085c87.js.map": "/Vinit-Tiwari/ipaddresstracker/static/js/main.9b085c87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ade9d96.css",
+    "static/js/main.9b085c87.js"
+  ]
+}
